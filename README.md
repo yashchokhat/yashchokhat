@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=220&section=header&text=Yash%20P.%20Chokhat&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=38&color=0:0f172a,100:111827" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=220&section=header&text=YASH&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=38&color=0:0f172a,55:123b5d,100:172554" width="100%"/>
 </p>
 
 <p align="center">
@@ -9,6 +9,11 @@
 
 <p align="center">
   <img src="./freelancing-contributions.svg" width="100%" alt="Freelancing contributions from 2023 to August 2026"/>
+</p>
+
+
+<p align="center">
+  <img src="./freelancing-contributions.svg" width="100%" alt="Freelancing contribution activity from August 2025 to August 2026"/>
 </p>
 
 ---
