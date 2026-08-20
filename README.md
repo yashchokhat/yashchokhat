@@ -7,7 +7,7 @@
 </p>
 
 <p align="center">
-  <img src="./freelancing-contributions.svg" width="100%" alt="Freelancing contribution activity from August 2025 to August 2026"/>
+  <img src="https://raw.githubusercontent.com/yashchokhat/yashchokhat/main/freelancing-contributions.svg" width="100%" alt="Freelancing contribution activity from August 2025 to August 2026"/>
 </p>
 
 
@@ -15,7 +15,7 @@
 ---
 
 <p align="center">
-  <img src="./devops-pipeline.svg" width="92%" alt="Animated DevOps pipeline"/>
+  <img src="https://raw.githubusercontent.com/yashchokhat/yashchokhat/main/devops-pipeline.svg" width="92%" alt="Animated DevOps pipeline"/>
 </p>
 
 ---
@@ -27,13 +27,13 @@ I am a Computer Engineering student, software developer, freelancer, and founder
 My current direction is centered on cloud-native development, infrastructure automation, CI/CD, container orchestration, AWS, LLMOps, and high-level system design.
 
 <p align="center">
-  <img src="./about-animation.gif" width="96%" alt="Animated engineering workflow"/>
+  <img src="https://raw.githubusercontent.com/yashchokhat/yashchokhat/main/about-animation.gif" width="96%" alt="Animated engineering workflow"/>
 </p>
 
 ## Engineering Motion
 
 <p align="center">
-  <img src="./engineering-motion.gif" width="96%" alt="Animated engineering workflow"/>
+  <img src="https://raw.githubusercontent.com/yashchokhat/yashchokhat/main/engineering-motion.gif" width="96%" alt="Animated engineering workflow"/>
 </p>
 
 
