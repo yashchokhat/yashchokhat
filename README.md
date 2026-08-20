@@ -30,6 +30,11 @@ I am a Computer Engineering student, software developer, freelancer, and founder
 
 My current direction is centered on cloud-native development, infrastructure automation, CI/CD, container orchestration, AWS, LLMOps, and high-level system design.
 
+
+<p align="center">
+  <img src="./about-animation.gif" width="100%" alt="Animated engineering workflow"/>
+</p>
+
 ---
 
 ## What I Build
