@@ -13,13 +13,13 @@
 </p>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/yashchokhat/yashchokhat/main/assets/terminal-animation.svg" width="92%" alt="Animated terminal"/>
+  <img src="./terminal-animation.svg" width="92%" alt="Animated terminal"/>
 </p>
 
 ---
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/yashchokhat/yashchokhat/main/assets/devops-pipeline.svg" width="92%" alt="Animated DevOps pipeline"/>
+  <img src="./devops-pipeline.svg" width="92%" alt="Animated DevOps pipeline"/>
 </p>
 
 ---
@@ -73,7 +73,7 @@ Web Platforms / Mobile Apps / IoT Systems / Cloud Deployments
 </p>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/yashchokhat/yashchokhat/main/assets/freelancing-contributions.svg" width="100%" alt="Freelancing contributions"/>
+  <img src="./freelancing-contributions.svg" width="100%" alt="Freelancing contributions"/>
 </p>
 
 ---
@@ -142,44 +142,6 @@ Introduction to Artificial Intelligence — Microsoft Azure
 Publication focused on combining IoT automation with modern React application development.
 
 ---
-
-## GitHub Metrics
-
-<p align="center">
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=yashchokhat&show_icons=true&hide_border=true&theme=transparent&title_color=38BDF8&icon_color=38BDF8&text_color=94A3B8&bg_color=0F172A&include_all_commits=true&count_private=true" alt="GitHub stats"/>
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yashchokhat&layout=compact&hide_border=true&theme=transparent&title_color=38BDF8&text_color=94A3B8&bg_color=0F172A&include_all_commits=true&count_private=true" alt="Top languages"/>
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=yashchokhat&theme=transparent&hide_border=true&ring=38BDF8&fire=38BDF8&currStreakLabel=38BDF8&sideLabels=94A3B8&dates=64748B&background=0F172A" width="82%" alt="GitHub streak"/>
-</p>
-
----
-
-## Contribution Snake
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/yashchokhat/yashchokhat/output/github-contribution-grid-snake-dark.svg" width="95%" alt="Contribution snake"/>
-</p>
-
----
-
-## GitHub Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=yashchokhat&theme=algolia&no-frame=true&no-bg=true&margin-w=8&row=2&column=4" width="90%" alt="GitHub trophies"/>
-</p>
-
----
-
-## Connect
-
-<p align="center">
-  <a href="https://github.com/yashchokhat"><img src="https://img.shields.io/badge/GitHub-111827?style=flat-square&logo=github&logoColor=white" alt="GitHub"/></a>
-  <a href="https://linkedin.com/in/yāsh"><img src="https://img.shields.io/badge/LinkedIn-111827?style=flat-square&logo=linkedin&logoColor=0A66C2" alt="LinkedIn"/></a>
-  <a href="mailto:ychokhat@gmail.com"><img src="https://img.shields.io/badge/Email-111827?style=flat-square&logo=gmail&logoColor=EA4335" alt="Email"/></a>
-  <a href="https://instagram.com/yashchokat"><img src="https://img.shields.io/badge/Instagram-111827?style=flat-square&logo=instagram&logoColor=E4405F" alt="Instagram"/></a>
-</p>
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&height=150&section=footer&color=0:111827,100:0f172a" width="100%"/>
