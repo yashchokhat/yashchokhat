@@ -1,6 +1,4 @@
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=220&section=header&text=YASH&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=38&color=0:0f172a,55:123b5d,100:172554" width="100%"/>
-</p>
+
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&pause=700&color=38BDF8&center=true&vCenter=true&width=900&lines=Founder+at+Vertex+Lab;DevOps+%7C+AWS+%7C+Docker+%7C+Kubernetes+%7C+Terraform;Full+Stack+%7C+MERN+%7C+Next.js+%7C+Flutter;LLMOps+%7C+Cloud+Automation+%7C+System+Design;Build+%E2%86%92+Deploy+%E2%86%92+Automate+%E2%86%92+Scale" alt="Typing animation"/>
